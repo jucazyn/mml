@@ -1,2 +1,2 @@
 # mml
-Notes and scripts made while studying MML by Deisenroth et al.
+Repository for notes and scripts made while studying Mathematics for Machine Learning by Deisenroth et al.
